@@ -3,7 +3,8 @@
     "type": "symfony-bundle",
     "description": "This Bundle provide REPL shell in application context for symfony console",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "version" : "1.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Anton Pogonets",
